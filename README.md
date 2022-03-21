@@ -19,13 +19,15 @@
 
 - 📫 How to reach me **emereninicynthia@gmail.com**
 
+- 💬 WhatsApp <a href="tel:08135570186" target="blank">#Dial</a>
+
 - 📄 Know about my experiences [here](https://app.flowcv.io/resume-feedback/3zs0zA4GttpL)
 
 - 😄 Pronouns: **she/her**
 
 - ⚡ Fun fact: **I enjoy fixing things (electronics, appliances, tools).**
 
-- 👯 Communities: GDG (Google Developer Groups), GDSC (Google Developer Student Clubs), WTM (Women Techmakers), She Code Africa, Cowrywise, DevCenter, Girls in Tech,     Women who code, Agility Africa, and more.
+- 👯 Communities: **GDG (Google Developer Groups), GDSC (Google Developer Student Clubs), WTM (Women Techmakers), She Code Africa, Cowrywise, DevCenter, Girls in Tech,     Women who code, Agility Africa, and more.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
