@@ -32,6 +32,8 @@
 ### Blogs posts
 - [Useful websites every developer should know](https://medium.com/@emereninicynthia/how-come-you-dont-know-these-websites-as-a-developer-da7f32f65d60)
 
+- [GitHub repositories you should keep an eye on] (https://medium.com/gitconnected/github-repositories-you-should-keep-an-eye-on-a7b50f8ba60e)
+
 - [You never have to leave your development environment with these VSCode extensions installed](https://medium.com/@emereninicynthia/you-never-have-to-leave-your-development-environment-with-these-vs-code-extensions-installed-b9658fc5c21d)
 
 - [You might find these open source internships and programs interesting](https://medium.com/@emereninicynthia/you-might-find-these-open-source-internships-and-programs-interesting-cb2be57b8a56)
