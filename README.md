@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on [learnR](https://cindyeme.github.io/learnR)-->
 
-- 🌱 [Portfolio]([https://medium.com/@emereninicynthia](https://emereninicynthiangozi.netlify.app/))
+- 🌱 [Portfolio](https://emereninicynthiangozi.netlify.app/)
 
 - 👯 I’m looking to collaborate on **open source projects**
 
