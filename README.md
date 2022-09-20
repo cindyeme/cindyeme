@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emerenini Cynthia Ngozi</h1>
 <h3 align="center">A passionate Frontend Engineer from Nigeria</h3>
-<h5 align="center">[Portfolio](https://emereninicynthiangozi.netlify.app/)</h5>
 
 
 <!-- <p align="left"> <a href="https://twitter.com/cynthiaengozi1" target="blank"><img src="https://img.shields.io/twitter/follow/cynthiaengozi1?logo=twitter&style=for-the-badge" alt="cynthiaengozi1" /></a> <span align="left"> <img src="https://komarev.com/ghpvc/?username=cindyeme&label=Profile%20views&color=0e75b6&style=flat" alt="cindyeme" /> </span></p> -->
@@ -8,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on [learnR](https://cindyeme.github.io/learnR)-->
 
-<!-- - 🌱 I’m currently learning **React Native** -->
+- 🌱 [Portfolio]([https://medium.com/@emereninicynthia](https://emereninicynthiangozi.netlify.app/))
 
 - 👯 I’m looking to collaborate on **open source projects**
 
