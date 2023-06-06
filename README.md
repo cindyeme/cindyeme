@@ -31,6 +31,7 @@
 
 ### Blogs posts
 - [Useful websites every developer should know](https://medium.com/@emereninicynthia/how-come-you-dont-know-these-websites-as-a-developer-da7f32f65d60)
+- [Embrace AI: 10 AI tools that won’t replace you if you know how to use them](https://medium.com/gitconnected/embrace-ai-10-ai-tools-that-wont-replace-you-if-you-know-how-to-use-them-531c3bd4982a)
 
 - [GitHub repositories you should keep an eye on](https://medium.com/gitconnected/github-repositories-you-should-keep-an-eye-on-a7b50f8ba60e)
 
