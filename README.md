@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/cindyeme](https://github.com/cindyeme)
+- 👨‍💻 All of my projects are available at [here](https://github.com/cindyeme)
 
 - 📝 I regularly write articles on [medium](https://medium.com/@emereninicynthia)
 
