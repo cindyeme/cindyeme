@@ -21,7 +21,7 @@
 
 - 💬 WhatsApp <a href="tel:08135570186" target="blank">#Dial</a>
 
-- 📄 Know about my experiences [here](https://app.flowcv.io/resume-feedback/3zs0zA4GttpL)
+- 📄 Know about my experiences [here](https://flowcv.com/resume/shrs68l3t3)
 
 - 😄 Pronouns: **she/her**
 
