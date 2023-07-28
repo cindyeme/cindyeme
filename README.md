@@ -7,11 +7,11 @@
 
 <!-- - 🔭 I’m currently working on [learnR](https://cindyeme.github.io/learnR)-->
 
-- 🌱 [Portfolio](https://emereninicynthiangozi.netlify.app/)
+<!-- - 🌱 [Portfolio](https://emereninicynthiangozi.netlify.app/) -->
 
-- 👯 I’m looking to collaborate on **open source projects**
+<!-- - 👯 I’m looking to collaborate on **open source projects** -->
 
-- 👨‍💻 All of my projects are available here and [here](https://www.frontendmentor.io/profile/cindyeme)
+- 👨‍💻 My projects are available here and [here](https://www.frontendmentor.io/profile/cindyeme)
 
 - 📝 I regularly write articles on [medium](https://medium.com/@emereninicynthia)
 
