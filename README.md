@@ -15,11 +15,11 @@
 
 - 📝 I regularly write articles on [medium](https://medium.com/@emereninicynthia)
 
-- 💬 Ask me about **html5, css3, javascript, reactjs, nextjs, tailwindcss, community, relationship**
+<!-- - 💬 Ask me about **html5, css3, javascript, reactjs, nextjs, tailwindcss, community, relationship** -->
 
 - 📫 How to reach me **emereninicynthia@gmail.com**
 
-- 💬 WhatsApp <a href="tel:08135570188" target="_blank">#Dial</a>
+<!-- - 💬 WhatsApp <a href="tel:08135570188" target="_blank">#Dial</a> -->
 
 - 📄 Know about my experiences [here](https://flowcv.com/resume/shrs68l3t3)
 
