@@ -7,19 +7,19 @@
 
 <!-- - 🔭 I’m currently working on [learnR](https://cindyeme.github.io/learnR)-->
 
-<!-- - 🌱 [Portfolio](https://emereninicynthiangozi.netlify.app/) -->
+- 🌱 Early stage [Portfolio](https://emereninicynthiangozi.netlify.app/)
 
-<!-- - 👯 I’m looking to collaborate on **open source projects** -->
+- 👯 I’m open to collaborate
 
 - 👨‍💻 My projects are available here and [here](https://www.frontendmentor.io/profile/cindyeme)
 
-- 📝 I regularly write articles on [medium](https://medium.com/@emereninicynthia)
+- 📝 I regularly write articles on [medium](https://medium.com/@emereninicynthia) and [hashnode](https://emereninicynthia.hashnode.dev/)
 
 <!-- - 💬 Ask me about **html5, css3, javascript, reactjs, nextjs, tailwindcss, community, relationship** -->
 
-- 📫 How to reach me **emereninicynthia@gmail.com**
+- 📫 How to reach me **cynthiaemerenini37@gmail.com**
 
-<!-- - 💬 WhatsApp <a href="tel:08135570188" target="_blank">#Dial</a> -->
+<!-- - 💬 WhatsApp <a href="tel:" target="_blank">#Dial</a> -->
 
 - 📄 Know about my experiences [here](https://flowcv.com/resume/shrs68l3t3)
 
