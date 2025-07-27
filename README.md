@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Emerenini Cynthia Ngozi</h1>
-<h3 align="center">Frontend Engineer</h3>
+<h1 align="center">Hi 👋, I'm Cynthia Emerenini</h1>
+<h3 align="center">Software Engineer</h3>
 
 
 <!-- <p align="left"> <a href="https://twitter.com/cynthiaengozi1" target="blank"><img src="https://img.shields.io/twitter/follow/cynthiaengozi1?logo=twitter&style=for-the-badge" alt="cynthiaengozi1" /></a> <span align="left"> <img src="https://komarev.com/ghpvc/?username=cindyeme&label=Profile%20views&color=0e75b6&style=flat" alt="cindyeme" /> </span></p> -->
