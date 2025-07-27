@@ -13,7 +13,7 @@
 
 - 👨‍💻 My projects are available here and [here](https://www.frontendmentor.io/profile/cindyeme)
 
-- 📝 I regularly write articles on [medium](https://medium.com/@emereninicynthia) and [hashnode](https://emereninicynthia.hashnode.dev/)
+- 📝 I regularly write articles on [medium](https://medium.com/@emereninicynthia) and [hashnode](https://techtraversex.hashnode.dev/)
 
 <!-- - 💬 Ask me about **html5, css3, javascript, reactjs, nextjs, tailwindcss, community, relationship** -->
 
