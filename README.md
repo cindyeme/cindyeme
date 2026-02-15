@@ -1,64 +1,34 @@
-<h1 align="center">Hi 👋, I'm Cynthia Emerenini</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="left">Obsessed with Improvement</h1
 
+- 🌱 Early stage [Portfolio](https://emereninicynthiangozi.netlify.app/) and know about my experiences [HERE](https://flowcv.com/resume/shrs68l3t3)
 
-<!-- <p align="left"> <a href="https://twitter.com/cynthiaengozi1" target="blank"><img src="https://img.shields.io/twitter/follow/cynthiaengozi1?logo=twitter&style=for-the-badge" alt="cynthiaengozi1" /></a> <span align="left"> <img src="https://komarev.com/ghpvc/?username=cindyeme&label=Profile%20views&color=0e75b6&style=flat" alt="cindyeme" /> </span></p> -->
- 
+- ⭐️ B.Sc Computer Science — CGPA 4.35 / 5.0
 
-<!-- - 🔭 I’m currently working on [learnR](https://cindyeme.github.io/learnR)-->
-
-- 🌱 Early stage [Portfolio](https://emereninicynthiangozi.netlify.app/)
-
-- 👯 I’m open to collaborate
-
-- 👨‍💻 My projects are available here and [here](https://www.frontendmentor.io/profile/cindyeme)
-
-- 📝 I regularly write articles on [medium](https://medium.com/@emereninicynthia) and [hashnode](https://techtraversex.hashnode.dev/)
-
-<!-- - 💬 Ask me about **html5, css3, javascript, reactjs, nextjs, tailwindcss, community, relationship** -->
-
-- 📫 How to reach me **cynthiaemerenini37@gmail.com**
-
-<!-- - 💬 WhatsApp <a href="tel:" target="_blank">#Dial</a> -->
-
-- 📄 Know about my experiences [here](https://flowcv.com/resume/shrs68l3t3)
+- 📝 I write technical articles on [Medium](https://medium.com/@emereninicynthia) and [Hashnode](https://techtraversex.hashnode.dev/)
 
 - 😄 Pronouns: **she/her**
 
-- ⚡ Fun fact: **I enjoy fixing things (electronics, appliances, tools).**
-
-- 👯 Communities: **GDG (Google Developer Groups), GDSC (Google Developer Student Clubs), WTM (Women Techmakers), She Code Africa, Cowrywise, DevCenter, Girls in Tech,     Women who code, Agility Africa, and more.**
-
-### Blogs posts
+### Some blog posts
 - [Useful websites every developer should know](https://medium.com/@emereninicynthia/how-come-you-dont-know-these-websites-as-a-developer-da7f32f65d60)
-- [Embrace AI: 10 AI tools that won’t replace you if you know how to use them](https://medium.com/gitconnected/embrace-ai-10-ai-tools-that-wont-replace-you-if-you-know-how-to-use-them-531c3bd4982a)
-
-- [GitHub repositories you should keep an eye on](https://medium.com/gitconnected/github-repositories-you-should-keep-an-eye-on-a7b50f8ba60e)
-
-- [You never have to leave your development environment with these VSCode extensions installed](https://medium.com/@emereninicynthia/you-never-have-to-leave-your-development-environment-with-these-vs-code-extensions-installed-b9658fc5c21d)
-
+- [Generative Engine Optimization Explained](https://techtraversex.hashnode.dev/generative-engine-optimization-explained-learn-geo-vs-seo-for-online-success)
+- [How to Add Shadcn UI and Tailwind CSS in an Existing Monorepo](https://techtraversex.hashnode.dev/how-to-add-shadcn-ui-and-tailwind-css-in-an-existing-monorepo)
+- [Top 10 Next-Gen AI Coding Assistants Changing How Fast We Build Software](https://techtraversex.hashnode.dev/top-10-next-gen-ai-coding-assistants-changing-how-fast-we-build-software)
 - [You might find these open source internships and programs interesting](https://medium.com/@emereninicynthia/you-might-find-these-open-source-internships-and-programs-interesting-cb2be57b8a56)
-
-- [All the powerful chrome extensions you need today](https://medium.com/@emereninicynthia/all-the-powerful-chrome-extensions-you-need-today-2c943e083fa5)
-
+- [How to Build a Website for Your Small Business (Without Writing Code)](https://techtraversex.hashnode.dev/how-to-build-a-website-for-your-small-business-without-writing-code)
 - [10 things you always forget when you design](https://medium.com/@emereninicynthia/10-things-you-always-forget-when-you-design-f002564c5ed)
 
 
-<h3 align="left">Connect with me:</h3>
+## 📬 How to reach me
+
 <p align="left">
-<a href="https://twitter.com/cynthiaengozi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cynthiaengozi1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/emerenini-cynthia-ngozi-29a013192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emerenini-cynthia-ngozi" height="30" width="40" /></a>
-<a href="https://medium.com/@emereninicynthia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@emereninicynthia" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cindy_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cindy_codes" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/emereninicynthia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="emereninicynthia" height="30" width="40" /></a>
-<a href="https://discord.gg/Cindy_codes#6546" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Cindy_codes#6546" height="30" width="40" /></a>
+  <a href="https://x.com/cynthiaengozi">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/cynthiaemerenini">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:emereninicynthia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p> 
-<br>
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cindyeme" alt="cindyeme" /></a> </p> -->
-
-<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cindyeme&show_icons=true&locale=en&layout=compact" alt="cindyeme" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cindyeme&show_icons=true&locale=en" alt="cindyeme" /></p> -->
