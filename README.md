@@ -1,8 +1,8 @@
-<h1 align="left">Obsessed with Improvement</h1
+<h1 align="left">Obsessed with Improvement</h1>
 
-- 🌱 Early stage [Portfolio](https://emereninicynthiangozi.netlify.app/) and know about my experiences [HERE](https://flowcv.com/resume/shrs68l3t3)
+- 🌱 Early stage [Portfolio](https://cynthiaemerenini.com/) and know about my experiences [HERE](https://flowcv.com/resume/shrs68l3t3)
 
-- ⭐️ B.Sc Computer Science — CGPA 4.35 / 5.0
+- ⭐️ B.Sc Computer Science — CGPA 4.32 / 5.0
 
 - 📝 I write technical articles on [Medium](https://medium.com/@emereninicynthia) and [Hashnode](https://techtraversex.hashnode.dev/)
 
