@@ -4,6 +4,8 @@
 
 - ⭐️ B.Sc Computer Science — CGPA 4.32 / 5.0
 
+- ⭐️ [Btrust Builder Finalist](https://pathways.btrust.tech/graduates#mastering-bitcoin)
+
 - 📝 I write technical articles on [Medium](https://medium.com/@emereninicynthia) and [Hashnode](https://techtraversex.hashnode.dev/)
 
 - 😄 Pronouns: **she/her**
