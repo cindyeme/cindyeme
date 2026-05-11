@@ -1,6 +1,6 @@
 <h1 align="left">Obsessed with Improvement</h1>
 
-- 🌱 Early stage [Portfolio](https://cynthiaemerenini.com/) and know about my experiences [HERE](https://flowcv.com/resume/shrs68l3t3)
+- 🌱 [Portfolio](https://cynthiaemerenini.com/) and know about my experiences [HERE](https://flowcv.com/resume/shrs68l3t3)
 
 - ⭐️ B.Sc Computer Science — CGPA 4.32 / 5.0
 
